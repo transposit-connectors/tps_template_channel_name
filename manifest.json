@@ -1,0 +1,21 @@
+{
+  "v2": {
+    "transposit": {
+      "operations": [{
+        "id": "execute",
+        "function": {
+          "parameters": [{
+            "name": "context",
+            "description": "Transposit sends information related to the application run via this \u0027context\u0027 parameter",
+            "type": "OBJECT"
+          }],
+          "js": "execute.py",
+          "lang": "python"
+        }
+      }],
+      "javascriptAPIVersion": "6",
+      "source": "src",
+      "userSettingsDisplay": "GENERATED"
+    }
+  }
+}
