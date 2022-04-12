@@ -14,7 +14,12 @@
             "type": "OBJECT"
           }],
           "js": "execute.py",
-          "lang": "python"
+          "lang": "python",
+          "outputs": [{
+            "name": "channel_name",
+            "type": "STRING",
+            "prettyName": "Channel name"
+          }]
         }
       }],
       "dataConnections": [{
