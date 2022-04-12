@@ -1,6 +1,10 @@
 {
   "v2": {
     "transposit": {
+      "dependencies": [{
+        "name": "transposit/transposit_mc_api:v2.*.*",
+        "alias": "transposit_mc_api"
+      }],
       "operations": [{
         "id": "execute",
         "function": {
