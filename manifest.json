@@ -17,6 +17,20 @@
           "lang": "python"
         }
       }],
+      "dataConnections": [{
+        "ref": "transposit_mc_api",
+        "overrides": {
+          "swagger": {
+            "executionLimits": {
+            }
+          }
+        },
+        "managedOverridesDeclaration": {
+          "swagger": {
+            "fieldKeys": ["baseUrl"]
+          }
+        }
+      }],
       "javascriptAPIVersion": "6",
       "source": "src",
       "userSettingsDisplay": "GENERATED"
