@@ -2,3 +2,7 @@ latest:
   contextType: WORKFLOW
   tag: latest
   execute: execute
+v1.0.0:
+  contextType: WORKFLOW
+  tag: v1.0.0
+  execute: execute  
