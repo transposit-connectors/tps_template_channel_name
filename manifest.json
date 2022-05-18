@@ -39,6 +39,8 @@
       "javascriptAPIVersion": "6",
       "source": "src",
       "userSettingsDisplay": "GENERATED"
-    }
+    },
+    "description": "Get the templated channel name for the current activity",
+    "displayName": "Get templated channel name"
   }
 }

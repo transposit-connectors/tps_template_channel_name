@@ -1,6 +1,6 @@
-# undefined
+# Get templated channel name
 
-undefined
+Get the templated channel name for the current activity.
 
 ## Integrations required:
 
