@@ -1,0 +1,4 @@
+latest:
+  contextType: WORKFLOW
+  tag: latest
+  execute: execute
